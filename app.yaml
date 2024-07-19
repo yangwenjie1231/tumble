@@ -1,0 +1,12 @@
+id: tumble
+name: tumble
+version: 1.0.0
+author: ywj
+icon: app.png
+desc: 跌倒检测
+files:
+  - app.yaml
+  - main.py
+  - model_139649.cvimodel
+  - model_139649.mud
+  - ret.png
